@@ -1,0 +1,14 @@
+
+*.o
+*.a
+*.s
+*.pdf
+*.init_check
+
+cub3D
+
+obj
+tmp
+
+.DS_Store
+.vscode
